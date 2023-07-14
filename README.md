@@ -4,7 +4,7 @@ This repository contains a dataset and Tableau workbook analyzing my daily scree
 
 ## Dataset
 
-[Screen Time.xlsx](Screen_Time.xlsx) contains the following columns:
+[Screen_Time.xlsx](Screen_Time.xlsx) contains the following columns:
 - 'Date': the date of the record
 - 'Day of the Week': the weekday of the record
 - 'Screen Time (mins)': the duration of screen time in minutes
