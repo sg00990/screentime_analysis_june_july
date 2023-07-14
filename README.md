@@ -13,7 +13,7 @@ This repository contains a dataset and Tableau workbook analyzing my daily scree
 
 ## Tableau Notebook
 
-The Tableau workbook, [Monthly Screen Time (June 11 - July 11).twbx](https://public.tableau.com/views/MonthlyScreenTimeJune11-July11/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link), explores and visualizes the screen time data. It includes the following visualizations:
+The Tableau workbook, [Monthly Screen Time (June 11 - July 11).twbx](https://public.tableau.com/views/MonthlyScreenTimeJune11-July11/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) or [screentime_viz_june_july.pdf](screentime_viz_june_july.pdf), explores and visualizes the screen time data. It includes the following visualizations:
 - Bubble chart describing screen time per weekday
 - Horizontal bar graph comparing screen time on days I worked and days I did not
 - Line chart showing the daily trend of screen time over a month
